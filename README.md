@@ -3,8 +3,8 @@
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/user-profile-api.git
-   cd user-profile-api
+   git clone https://github.com/JunjyotiChangmai/binbag-backend-assignment.git
+   cd binbag-backend-assignment
    ```
 2. Install dependencies:
    ```sh
@@ -12,9 +12,9 @@
    ```
 3. Set up environment variables in a `.env` file:
    ```sh
-   MONGO_URI=your_mongodb_uri_here
-   JWT_SECRET=your_jwt_secret_key_here
-   PORT=5000
+   MONGO_URI = your_mongodb_uri_here
+   JWT_SECRET = your_jwt_secret_key_here
+   PORT = 5000
    ```
 4. Start the server:
    ```sh
