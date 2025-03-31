@@ -26,3 +26,9 @@
 - **Login:** `POST /api/auth/login`
 - **Get Profile:** `GET /api/user/profile` (Protected)
 - **Update Profile:** `PUT /api/user/profile` (Protected)
+
+## Postman Documentation
+### **Live API Documentation**
+[View API Documentation](https://documenter.getpostman.com/view/32570280/2sB2cRBirg)
+
+---
